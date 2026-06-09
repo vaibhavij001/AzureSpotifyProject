@@ -1,0 +1,15 @@
+{
+	"name": "VJPSDataFactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b886a43-dd04-4add-b23a-30bb390f52b6",
+		"tenantId": "d879ad3f-beee-447d-910a-11eb5eb43556"
+	}
+}
